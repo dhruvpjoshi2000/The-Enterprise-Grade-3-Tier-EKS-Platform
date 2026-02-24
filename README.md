@@ -1,5 +1,6 @@
 # The-Enterprise-Grade-3-Tier-EKS-Platform
 # 🚀 Zero-Touch EKS Provisioning
+# Multi-Region DR: "Achieved 99.9% uptime with <5min failover"
 
 This repository contains the Infrastructure as Code (Terraform) and GitOps configurations (Argo CD) to provision a production-grade Kubernetes cluster on AWS.
 
